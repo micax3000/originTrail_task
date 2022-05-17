@@ -30,6 +30,16 @@ See https://etherscan.io/ for an example of how data can be visualized.
 
 Please, put your resolution to the private github repository and share it with marijakrivosic, branarakic & kotlarmilos.
 ## ----------------------------------------------------------------------------------------- ##
+Transactions crawler was written in Python, using Jupyter notebook. Libraries needed to run this script:
+- requests
+- pandas
+- numpy
+- seaborn 
+- json
+- datetime
+- matplotlib  
+- IPython.display
 
-https://colab.research.google.com/drive/1N6fVbWWUfFVMDRbygNBuPgc4aHK4Wj2U?usp=sharing
-
+All libraries can be installed by running _pip install **library_name**_ command in your terminal.
+### Also, you can run it immediately by using Google Colab:
+https://colab.research.google.com/drive/1e0cSV1ddvXmzGNlSJaM8ipvv7bSZRGXM?usp=sharing
